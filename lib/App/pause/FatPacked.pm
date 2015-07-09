@@ -19,6 +19,6 @@ the L<App::pause> distribution.
 
 L<App::pause>
 
-L<App::pause::>
+L<App::pause::Unpacked>
 
 L<pause-fatpacked>
