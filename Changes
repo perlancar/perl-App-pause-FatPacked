@@ -1,13 +1,22 @@
 Revision history for App-pause-FatPacked
 
+0.52    2016-01-17 (PERLANCAR)
+
+        - Update to App::pause 0.52 (shareable configuration 'pause.conf') &
+          synchronize version number.
+
+        - Update to WWW::PAUSE::Simple 0.29 (add --protect-files, allow
+          specifying duration as '10s' or 'PT10s').
+
+
 0.47    2015-09-10 (PERLANCAR)
 
-        - Update to App-pause 0.47 & synchronize version number.
+        - Update to App::pause 0.47 & synchronize version number.
 
 
 0.44    2015-07-28 (PERLANCAR)
 
-        - Update to App-pause 0.44 & synchronize version number.
+        - Update to App::pause 0.44 & synchronize version number.
 
 
 0.01    2015-07-09 (PERLANCAR)
