@@ -1,5 +1,3 @@
-Revision history for App-pause-FatPacked
-
 0.52    2016-01-17 (PERLANCAR)
 
         - Update to App::pause 0.52 (shareable configuration 'pause.conf') &
